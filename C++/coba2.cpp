@@ -16,6 +16,12 @@ printf("Selamat Datang %s", nm2);
 
 }
 
+
+//Catatan singkat
+//gets(nm1) = mengambil input dari user dan menyimpannya dalam variabel nm1
+//%s = %s digunakan untuk mencetak string
+
+
 //saya dapat warning BUFFER OVERFLOW ketika compile:
 
 //coba2.cpp: In function 'int main()':
